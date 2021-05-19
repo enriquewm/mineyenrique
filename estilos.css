@@ -1,7 +1,7 @@
 *{ background: url(fondo.jpg); font-family: arial; } 
 
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
       img.mineyoimg{ 
       	width:380px;
       	padding-left: 50px;
